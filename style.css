@@ -10,3 +10,9 @@ font-family: 'Pixelify Sans', monospace, sans-serif;
 background-color: #f7f9ff;
 color: #7b86a8;
 }
+
+footer{
+
+    border: 2px solid #e7eeff ;
+    font-size: xx-small;
+}
